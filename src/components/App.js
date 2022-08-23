@@ -13,7 +13,7 @@ function App() {
       <About bio={user.bio} links={user.links} />
       <ProjectList projects={user.projects} />
     </div>
-  );
+  ); 
 }
 
 export default App;
